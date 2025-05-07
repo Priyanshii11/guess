@@ -1,4 +1,3 @@
-# NUMBER GUESS
 # 🎮 Number Guessing Game (Console Version)
 
 A simple CLI-based number guessing game written in Python.  
