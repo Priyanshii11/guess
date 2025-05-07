@@ -12,16 +12,17 @@ The player selects a difficulty level and tries to guess the correct number with
   - Easy (10 chances)
   - Medium (5 chances)
   - Hard (3 chances)
-- Hints whether the number is higher or lower
-- Random number generated between 1 and 100
-- User-friendly messages and input handling
+- Timer to track how long the user takes
+- Hint system (if guess is within ±10)
+- High score tracker per difficulty
+- Option to replay multiple rounds
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **Language:** Python 3
-- **Libraries:** Built-in `random` and `input` functions
+- **Libraries:** Built-in `random`, `time`
 
 ---
 
